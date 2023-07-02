@@ -1,0 +1,87 @@
+*{
+    background-color: #F9E0BB;
+}
+#Number1,#Number2{
+    border: 1px solid black;
+    padding: 0px;
+    background-color: aliceblue;
+    width:100px;
+    height:50%;
+    text-align: center;
+    justify-content: center;
+    font-size: 35px;
+
+
+
+
+}
+.container{
+    border: 1px solid black;
+    text-align: center;
+    padding: 40px;
+
+}
+h1{
+    color: #C38154;
+    border:3px #C38154;
+border-radius: 50%;
+
+}
+#True,#False{
+    border: 1px solid black;
+    padding: 0px;
+    width: 150px;
+    height: 40px;
+}
+#panel{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    padding-left: 90px;
+}
+#True{
+    background-color: rgb(87, 131, 22);
+    color: white;
+    font-size: 35px;
+    padding-left: 300px;
+    
+
+}
+#False{
+    background-color: rgb(230, 64, 23);
+    color: white;
+    font-size: 35px;
+    padding-left: 300px;
+    
+
+}
+#answer{
+    background-color: white;
+}
+#result{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+}
+#Operator{
+    border: 1px solid black;
+    padding: 0px;
+    background-color: aliceblue;
+    width:20px;
+    height:15px;
+    text-align: center;
+    justify-content: center;
+    font-size: 35px;
+
+}
+#equal{
+    border: 1px solid black;
+    padding: 0px;
+    background-color: aliceblue;
+    width:20px;
+    height:15px;
+    text-align: center;
+    justify-content: center;
+    font-size: 35px;
+}
